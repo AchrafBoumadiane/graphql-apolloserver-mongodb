@@ -1,4 +1,4 @@
-# Small System Built with : Graphql Apolloserver Mongodb -
+## Small System Built with :
 
 <ul>
       <li> Graphql </li> 
